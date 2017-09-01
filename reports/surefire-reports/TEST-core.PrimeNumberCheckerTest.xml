@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="core.PrimeNumberCheckerTest" time="2.18" tests="99" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\bin"/>
+    <property name="java.vm.version" value="25.141-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\projects\Workspace\HW_35"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="test" value="PrimeNumberCheckerTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\projects\Workspace\HW_35"/>
+    <property name="java.runtime.version" value="1.8.0_141-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Ivan\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Program Files\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Calibre2\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jre1.8.0_141\bin;C:\Program Files\maven\bin;D:\vagrant\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Nmap;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Users\Ivan\AppData\Local\Programs\Fiddler;."/>
+    <property name="maven.conf" value="C:\Program Files\maven\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="library.jansi.path" value="C:\Program Files\maven\bin\..\lib\jansi-native\windows64"/>
+    <property name="user.home" value="C:\Users\Ivan"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Ivan"/>
+    <property name="java.class.path" value="C:\Program Files\maven\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_141\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean site -Dtest=PrimeNumberCheckerTest -Dtestcases=src\test\java\core\Primes.csv"/>
+    <property name="testcases" value="src\test\java\core\Primes.csv"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_141"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_141\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="TC-01.01 (2 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.154"/>
+  <testcase name="TC-01.02 (3 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.03 (4 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.04 (5 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.05 (6 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.06 (7 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.07 (8 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.08 (9 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.09 (10 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.10 (11 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.11 (12 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.12 (13 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.13 (14 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.14 (15 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.15 (16 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.007"/>
+  <testcase name="TC-01.16 (17 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.009"/>
+  <testcase name="TC-01.17 (18 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.18 (19 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.19 (20 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.20 (21 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.21 (22 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.22 (23 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.23 (24 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.24 (25 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.25 (26 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.26 (27 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.27 (28 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.28 (29 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.29 (30 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.30 (31 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.31 (32 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.32 (33 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.33 (34 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.34 (35 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.35 (36 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.36 (37 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.37 (38 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.38 (39 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.39 (40 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0"/>
+  <testcase name="TC-01.40 (41 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.41 (42 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.42 (43 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.43 (44 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.44 (45 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.45 (46 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.46 (47 is prime number)" classname="core.PrimeNumberCheckerTest" time="0"/>
+  <testcase name="TC-01.47 (48 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.48 (49 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.49 (50 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.50 (51 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.51 (52 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.52 (53 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.53 (54 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.54 (55 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.55 (56 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.56 (57 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.57 (58 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.58 (59 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.59 (60 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.60 (61 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.61 (62 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.62 (63 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.007"/>
+  <testcase name="TC-01.63 (64 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.64 (65 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.65 (66 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.66 (67 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.67 (68 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.68 (69 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.69 (70 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.70 (71 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.71 (72 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.72 (73 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.73 (74 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.74 (75 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.75 (76 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.76 (77 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.77 (78 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.78 (79 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.79 (80 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.80 (81 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.81 (82 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.82 (83 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.83 (84 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.84 (85 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.85 (86 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.86 (87 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.87 (88 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.88 (89 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.89 (90 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.90 (91 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.014"/>
+  <testcase name="TC-01.91 (92 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.92 (93 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.93 (94 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.94 (95 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.95 (96 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.96 (97 is prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.97 (98 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.006"/>
+  <testcase name="TC-01.98 (99 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.99 (100 is not a prime number)" classname="core.PrimeNumberCheckerTest" time="0.031"/>
+</testsuite>

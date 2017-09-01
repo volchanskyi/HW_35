@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504249932586" stop="1504249933304" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1504249932836" stop="1504249932871" status="passed">
+            <name>TC-01.01 (2 is prime number)[TC-01.01 (2 is prime number),2,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932879" stop="1504249932881" status="passed">
+            <name>TC-01.02 (3 is prime number)[TC-01.02 (3 is prime number),3,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932883" stop="1504249932885" status="passed">
+            <name>TC-01.03 (4 is not a prime number)[TC-01.03 (4 is not a prime number),4,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932888" stop="1504249932890" status="passed">
+            <name>TC-01.04 (5 is prime number)[TC-01.04 (5 is prime number),5,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932892" stop="1504249932896" status="passed">
+            <name>TC-01.05 (6 is not a prime number)[TC-01.05 (6 is not a prime number),6,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932898" stop="1504249932903" status="passed">
+            <name>TC-01.06 (7 is prime number)[TC-01.06 (7 is prime number),7,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932906" stop="1504249932907" status="passed">
+            <name>TC-01.07 (8 is not a prime number)[TC-01.07 (8 is not a prime number),8,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932910" stop="1504249932911" status="passed">
+            <name>TC-01.08 (9 is not a prime number)[TC-01.08 (9 is not a prime number),9,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932914" stop="1504249932915" status="passed">
+            <name>TC-01.09 (10 is not a prime number)[TC-01.09 (10 is not a prime number),10,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932917" stop="1504249932918" status="passed">
+            <name>TC-01.10 (11 is prime number)[TC-01.10 (11 is prime number),11,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932920" stop="1504249932921" status="passed">
+            <name>TC-01.11 (12 is not a prime number)[TC-01.11 (12 is not a prime number),12,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932924" stop="1504249932925" status="passed">
+            <name>TC-01.12 (13 is prime number)[TC-01.12 (13 is prime number),13,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932927" stop="1504249932928" status="passed">
+            <name>TC-01.13 (14 is not a prime number)[TC-01.13 (14 is not a prime number),14,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932930" stop="1504249932931" status="passed">
+            <name>TC-01.14 (15 is not a prime number)[TC-01.14 (15 is not a prime number),15,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932933" stop="1504249932934" status="passed">
+            <name>TC-01.15 (16 is not a prime number)[TC-01.15 (16 is not a prime number),16,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932938" stop="1504249932947" status="passed">
+            <name>TC-01.16 (17 is prime number)[TC-01.16 (17 is prime number),17,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932949" stop="1504249932951" status="passed">
+            <name>TC-01.17 (18 is not a prime number)[TC-01.17 (18 is not a prime number),18,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932954" stop="1504249932956" status="passed">
+            <name>TC-01.18 (19 is prime number)[TC-01.18 (19 is prime number),19,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932958" stop="1504249932959" status="passed">
+            <name>TC-01.19 (20 is not a prime number)[TC-01.19 (20 is not a prime number),20,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932961" stop="1504249932962" status="passed">
+            <name>TC-01.20 (21 is not a prime number)[TC-01.20 (21 is not a prime number),21,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932964" stop="1504249932965" status="passed">
+            <name>TC-01.21 (22 is not a prime number)[TC-01.21 (22 is not a prime number),22,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932968" stop="1504249932969" status="passed">
+            <name>TC-01.22 (23 is prime number)[TC-01.22 (23 is prime number),23,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932971" stop="1504249932972" status="passed">
+            <name>TC-01.23 (24 is not a prime number)[TC-01.23 (24 is not a prime number),24,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932974" stop="1504249932974" status="passed">
+            <name>TC-01.24 (25 is not a prime number)[TC-01.24 (25 is not a prime number),25,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932976" stop="1504249932977" status="passed">
+            <name>TC-01.25 (26 is not a prime number)[TC-01.25 (26 is not a prime number),26,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932979" stop="1504249932980" status="passed">
+            <name>TC-01.26 (27 is not a prime number)[TC-01.26 (27 is not a prime number),27,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932981" stop="1504249932982" status="passed">
+            <name>TC-01.27 (28 is not a prime number)[TC-01.27 (28 is not a prime number),28,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932984" stop="1504249932985" status="passed">
+            <name>TC-01.28 (29 is prime number)[TC-01.28 (29 is prime number),29,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932987" stop="1504249932988" status="passed">
+            <name>TC-01.29 (30 is not a prime number)[TC-01.29 (30 is not a prime number),30,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932990" stop="1504249932992" status="passed">
+            <name>TC-01.30 (31 is prime number)[TC-01.30 (31 is prime number),31,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932993" stop="1504249932994" status="passed">
+            <name>TC-01.31 (32 is not a prime number)[TC-01.31 (32 is not a prime number),32,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249932997" stop="1504249932999" status="passed">
+            <name>TC-01.32 (33 is not a prime number)[TC-01.32 (33 is not a prime number),33,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933001" stop="1504249933002" status="passed">
+            <name>TC-01.33 (34 is not a prime number)[TC-01.33 (34 is not a prime number),34,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933003" stop="1504249933004" status="passed">
+            <name>TC-01.34 (35 is not a prime number)[TC-01.34 (35 is not a prime number),35,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933005" stop="1504249933006" status="passed">
+            <name>TC-01.35 (36 is not a prime number)[TC-01.35 (36 is not a prime number),36,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933008" stop="1504249933009" status="passed">
+            <name>TC-01.36 (37 is prime number)[TC-01.36 (37 is prime number),37,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933011" stop="1504249933012" status="passed">
+            <name>TC-01.37 (38 is not a prime number)[TC-01.37 (38 is not a prime number),38,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933014" stop="1504249933015" status="passed">
+            <name>TC-01.38 (39 is not a prime number)[TC-01.38 (39 is not a prime number),39,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933017" stop="1504249933018" status="passed">
+            <name>TC-01.39 (40 is not a prime number)[TC-01.39 (40 is not a prime number),40,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933020" stop="1504249933021" status="passed">
+            <name>TC-01.40 (41 is prime number)[TC-01.40 (41 is prime number),41,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933023" stop="1504249933024" status="passed">
+            <name>TC-01.41 (42 is not a prime number)[TC-01.41 (42 is not a prime number),42,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933025" stop="1504249933027" status="passed">
+            <name>TC-01.42 (43 is prime number)[TC-01.42 (43 is prime number),43,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933029" stop="1504249933031" status="passed">
+            <name>TC-01.43 (44 is not a prime number)[TC-01.43 (44 is not a prime number),44,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933032" stop="1504249933034" status="passed">
+            <name>TC-01.44 (45 is not a prime number)[TC-01.44 (45 is not a prime number),45,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933036" stop="1504249933037" status="passed">
+            <name>TC-01.45 (46 is not a prime number)[TC-01.45 (46 is not a prime number),46,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933039" stop="1504249933040" status="passed">
+            <name>TC-01.46 (47 is prime number)[TC-01.46 (47 is prime number),47,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933042" stop="1504249933043" status="passed">
+            <name>TC-01.47 (48 is not a prime number)[TC-01.47 (48 is not a prime number),48,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933045" stop="1504249933046" status="passed">
+            <name>TC-01.48 (49 is not a prime number)[TC-01.48 (49 is not a prime number),49,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933048" stop="1504249933049" status="passed">
+            <name>TC-01.49 (50 is not a prime number)[TC-01.49 (50 is not a prime number),50,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933050" stop="1504249933051" status="passed">
+            <name>TC-01.50 (51 is not a prime number)[TC-01.50 (51 is not a prime number),51,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933053" stop="1504249933053" status="passed">
+            <name>TC-01.51 (52 is not a prime number)[TC-01.51 (52 is not a prime number),52,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933055" stop="1504249933056" status="passed">
+            <name>TC-01.52 (53 is prime number)[TC-01.52 (53 is prime number),53,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933057" stop="1504249933059" status="passed">
+            <name>TC-01.53 (54 is not a prime number)[TC-01.53 (54 is not a prime number),54,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933060" stop="1504249933061" status="passed">
+            <name>TC-01.54 (55 is not a prime number)[TC-01.54 (55 is not a prime number),55,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933063" stop="1504249933064" status="passed">
+            <name>TC-01.55 (56 is not a prime number)[TC-01.55 (56 is not a prime number),56,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933066" stop="1504249933067" status="passed">
+            <name>TC-01.56 (57 is not a prime number)[TC-01.56 (57 is not a prime number),57,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933069" stop="1504249933070" status="passed">
+            <name>TC-01.57 (58 is not a prime number)[TC-01.57 (58 is not a prime number),58,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933072" stop="1504249933073" status="passed">
+            <name>TC-01.58 (59 is prime number)[TC-01.58 (59 is prime number),59,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933075" stop="1504249933076" status="passed">
+            <name>TC-01.59 (60 is not a prime number)[TC-01.59 (60 is not a prime number),60,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933079" stop="1504249933080" status="passed">
+            <name>TC-01.60 (61 is prime number)[TC-01.60 (61 is prime number),61,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933082" stop="1504249933083" status="passed">
+            <name>TC-01.61 (62 is not a prime number)[TC-01.61 (62 is not a prime number),62,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933085" stop="1504249933086" status="passed">
+            <name>TC-01.62 (63 is not a prime number)[TC-01.62 (63 is not a prime number),63,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933090" stop="1504249933092" status="passed">
+            <name>TC-01.63 (64 is not a prime number)[TC-01.63 (64 is not a prime number),64,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933095" stop="1504249933098" status="passed">
+            <name>TC-01.64 (65 is not a prime number)[TC-01.64 (65 is not a prime number),65,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933101" stop="1504249933102" status="passed">
+            <name>TC-01.65 (66 is not a prime number)[TC-01.65 (66 is not a prime number),66,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933104" stop="1504249933106" status="passed">
+            <name>TC-01.66 (67 is prime number)[TC-01.66 (67 is prime number),67,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933108" stop="1504249933110" status="passed">
+            <name>TC-01.67 (68 is not a prime number)[TC-01.67 (68 is not a prime number),68,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933112" stop="1504249933113" status="passed">
+            <name>TC-01.68 (69 is not a prime number)[TC-01.68 (69 is not a prime number),69,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933114" stop="1504249933115" status="passed">
+            <name>TC-01.69 (70 is not a prime number)[TC-01.69 (70 is not a prime number),70,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933116" stop="1504249933117" status="passed">
+            <name>TC-01.70 (71 is prime number)[TC-01.70 (71 is prime number),71,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933118" stop="1504249933120" status="passed">
+            <name>TC-01.71 (72 is not a prime number)[TC-01.71 (72 is not a prime number),72,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933122" stop="1504249933123" status="passed">
+            <name>TC-01.72 (73 is prime number)[TC-01.72 (73 is prime number),73,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933125" stop="1504249933126" status="passed">
+            <name>TC-01.73 (74 is not a prime number)[TC-01.73 (74 is not a prime number),74,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933127" stop="1504249933128" status="passed">
+            <name>TC-01.74 (75 is not a prime number)[TC-01.74 (75 is not a prime number),75,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933129" stop="1504249933130" status="passed">
+            <name>TC-01.75 (76 is not a prime number)[TC-01.75 (76 is not a prime number),76,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933132" stop="1504249933133" status="passed">
+            <name>TC-01.76 (77 is not a prime number)[TC-01.76 (77 is not a prime number),77,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933135" stop="1504249933136" status="passed">
+            <name>TC-01.77 (78 is not a prime number)[TC-01.77 (78 is not a prime number),78,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933138" stop="1504249933139" status="passed">
+            <name>TC-01.78 (79 is prime number)[TC-01.78 (79 is prime number),79,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933140" stop="1504249933141" status="passed">
+            <name>TC-01.79 (80 is not a prime number)[TC-01.79 (80 is not a prime number),80,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933143" stop="1504249933145" status="passed">
+            <name>TC-01.80 (81 is not a prime number)[TC-01.80 (81 is not a prime number),81,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933147" stop="1504249933149" status="passed">
+            <name>TC-01.81 (82 is not a prime number)[TC-01.81 (82 is not a prime number),82,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933150" stop="1504249933152" status="passed">
+            <name>TC-01.82 (83 is prime number)[TC-01.82 (83 is prime number),83,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933154" stop="1504249933155" status="passed">
+            <name>TC-01.83 (84 is not a prime number)[TC-01.83 (84 is not a prime number),84,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933156" stop="1504249933157" status="passed">
+            <name>TC-01.84 (85 is not a prime number)[TC-01.84 (85 is not a prime number),85,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933159" stop="1504249933160" status="passed">
+            <name>TC-01.85 (86 is not a prime number)[TC-01.85 (86 is not a prime number),86,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933162" stop="1504249933163" status="passed">
+            <name>TC-01.86 (87 is not a prime number)[TC-01.86 (87 is not a prime number),87,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933165" stop="1504249933166" status="passed">
+            <name>TC-01.87 (88 is not a prime number)[TC-01.87 (88 is not a prime number),88,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933168" stop="1504249933169" status="passed">
+            <name>TC-01.88 (89 is prime number)[TC-01.88 (89 is prime number),89,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933171" stop="1504249933172" status="passed">
+            <name>TC-01.89 (90 is not a prime number)[TC-01.89 (90 is not a prime number),90,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933173" stop="1504249933174" status="passed">
+            <name>TC-01.90 (91 is not a prime number)[TC-01.90 (91 is not a prime number),91,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933176" stop="1504249933188" status="passed">
+            <name>TC-01.91 (92 is not a prime number)[TC-01.91 (92 is not a prime number),92,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933190" stop="1504249933192" status="passed">
+            <name>TC-01.92 (93 is not a prime number)[TC-01.92 (93 is not a prime number),93,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933194" stop="1504249933195" status="passed">
+            <name>TC-01.93 (94 is not a prime number)[TC-01.93 (94 is not a prime number),94,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933197" stop="1504249933199" status="passed">
+            <name>TC-01.94 (95 is not a prime number)[TC-01.94 (95 is not a prime number),95,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933202" stop="1504249933204" status="passed">
+            <name>TC-01.95 (96 is not a prime number)[TC-01.95 (96 is not a prime number),96,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933206" stop="1504249933209" status="passed">
+            <name>TC-01.96 (97 is prime number)[TC-01.96 (97 is prime number),97,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933211" stop="1504249933214" status="passed">
+            <name>TC-01.97 (98 is not a prime number)[TC-01.97 (98 is not a prime number),98,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933216" stop="1504249933218" status="passed">
+            <name>TC-01.98 (99 is not a prime number)[TC-01.98 (99 is not a prime number),99,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504249933220" stop="1504249933221" status="passed">
+            <name>TC-01.99 (100 is not a prime number)[TC-01.99 (100 is not a prime number),100,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Latitude"/>
+                <label name="thread" value="19372@Latitude.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
